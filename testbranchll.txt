@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x 2 yug yug 4.0K Jun 18 09:53 css
+-rw-rw-r-- 1 yug yug   68 Jun 18 10:15 index.html
+-rw-rw-r-- 1 yug yug   19 Jun 18 10:16 blah
+-rw-rw-r-- 1 yug yug  113 Jun 18 10:18 README.md
+-rw-rw-r-- 1 yug yug  249 Jun 18 10:40 gitclass_notes.txt
+-rw-rw-r-- 1 yug yug   10 Jun 18 10:51 newbrowsercommit.txt
+-rw-rw-r-- 1 yug yug    5 Jun 18 11:09 branchtest
+-rw-rw-r-- 1 yug yug    0 Jun 18 11:10 testbranchll.txt
