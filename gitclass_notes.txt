@@ -1,0 +1,7 @@
+#git notes
+https://github.com/matthewmccullough/dotfiles
+https://github.com/eugesong/june-18-sample
+http://training.github.com/classnotes/2014-06-18-private-foundations-workshop.html
+http://training.github.com/articles/github-class-prerequisites/
+
+
